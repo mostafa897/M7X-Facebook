@@ -1,4 +1,4 @@
-# Facebook-BruteForce
+# M7X-Facebook
 ```
 Bruteforce attack for Facebook Account
 ```
@@ -10,11 +10,11 @@ Bruteforce attack for Facebook Account
 
 ## Run commands one by one
 ```
->> git clone https://github.com/IAmBlackHacker/Facebook-BruteForce
->> cd Facebook-BruteForce
+>> git clone https://github.com/mostafa897/M7X-Facebook
+>> cd M7X-Facebook
 >> pip3 install requests bs4
 >> pip install mechanize
->> python3 fb.py or python fb2.py
+>> python3 fb.py 
 ```
 
 ## Screenshots
